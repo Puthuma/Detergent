@@ -1,0 +1,789 @@
+{
+  "settings": {
+    "name": "Puthuma",
+    "currentPage": "Detergent",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/puthuma-letter-1-128x90-23.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "versionFirst": "3.10",
+    "uniqCompNum": 23,
+    "versionPublish": "3.10",
+    "publishType": "github",
+    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/puthuma%20Detergent",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "Detergent": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "font-size": "22px",
+              "color": "#fbf2be",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#160946",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "32px",
+              "text-align": "right"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
+            },
+            ".mbr-section-title SPAN": {
+              "text-align": "left",
+              "color": "#b1f125",
+              "font-size": "30px"
+            },
+            "small B": {
+              "font-size": "23px",
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#0275d8"
+            },
+            ".lead H4": {
+              "color": "#fbf2be",
+              "font-size": "18px"
+            },
+            "small": {
+              "font-size": "19px",
+              "color": "#0275d8",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/8773954890-fcb15a43e5-b-1-2000x980-60.jpg",
+            "bgColor": "#fc1537",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/puthuma-1400x753-27.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"line-height: 1.1;\"><b>Puthuma</b> </span><span style=\"line-height: 1.1;\">Washing Soap&nbsp;</span><br>",
+          "meta": "Made From 100% Vegetarian &nbsp;Oils.<b>&nbsp;</b><b><br></b>",
+          "text": "<h4>Safe &nbsp;On &nbsp;Cloth &nbsp;And &nbsp;Hands</h4>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "H4": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#062138",
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "features1-3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#f7f7f7",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1474625121024-7595bfbc57ac-600x397-87.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Washing Soap 125 gram<br>",
+          "caption1": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only. ",
+          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1468235786671-7d0c7b22c605-600x400-68.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Washing Soap 200 gram",
+          "caption2": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
+          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-5-unsplash-bonus-jpg-600x400-16.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Washing Soap 600 gram",
+          "caption3": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
+          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1433087870301-b85d84efc18a-600x400-25.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Washing Soap &nbsp;900 gram",
+          "caption4": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
+          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#features1-m\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Next &gt;&gt;&gt;</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "H4": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-size": "11px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "features1-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1465939614835-639f125bc3f5-600x400-5.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Dishwash Bar 150 g",
+          "caption1": "Puthuma Brand Dishwash Bar comes in Good quality with actractive packing..",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1484349296292-552da537bd3a-600x400-81.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Dishwash Bar 500g",
+          "caption2": "Puthuma Brand Dishwash Bar comes in Good quality with actractive packing..",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1484563391303-27a646181a8b-600x397-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Phenyl 1 Ltr- Strawberry",
+          "caption3": "Puthuma Brand Phenyl comes in Premium quality with actractive packing.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482405994517-571b5fcdc998-600x398-50.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Phenyl 1 Ltr- Chempa",
+          "caption4": "Puthuma Brand Phenyl comes in Premium quality with actractive packing. This Products Available in 5 type&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More..</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
+            },
+            ".mbr-section-title": {
+              "color": "#f1c050",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px",
+              "color": "#b1f125"
+            },
+            ".lead SPAN": {
+              "color": "#b8dfed"
+            },
+            ".mbr-section-title B": {
+              "color": "#f1c050"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "14px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#001c71",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Puthuma Washing Soap",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Puthuma washing Soap is available at economical prices, &nbsp;and comes in attractive packaging, Puthuama Washing Soap has a powerful dirt cutting action, and leaves clothes sparkling clean. &nbsp; &nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">We use a &nbsp;100 % &nbsp;Vegetarian oil in our washing soaps. The product is safe on clothes and friendly&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">to&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">the skin. It protects the clothes from colour fading and keeps your clothes new as ever. It is eco friendly and helps save water. Our products are regaining popularity in many markets in South India.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">See Our Product Price</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "DIV": {
+              "color": "#062138"
+            },
+            "UL": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "pricing-table1-7",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#004a89",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": true,
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary"
+          },
+          "title1": "<b>Puthuma Washing Soap &nbsp;125g</b>",
+          "currency1": "MRP: &nbsp; 10/-",
+          "price1": "",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - &nbsp;84 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - &nbsp;10.5 Kg</b></li><li class=\"list-group-item\"><b style=\"line-height: 1.5;\">Scheme &nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">Available</span><b style=\"font-size: 1rem; line-height: 1.5;\">- &nbsp;YES</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
+          "title2": "<b>Puthuma Washing Soap&nbsp;</b><b>200</b>&nbsp;<b>g</b>",
+          "currency2": "MRP: &nbsp;14/-",
+          "price2": "",
+          "period2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron -  60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 9 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a> ",
+          "title3": "<b>Puthuma &nbsp;Washing Soap &nbsp;600g</b>&nbsp;",
+          "currency3": "MRP: &nbsp;18/-",
+          "price3": "",
+          "period3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron -  60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 12 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
+          "title4": "<b>Puthuma Washing Soap &nbsp;900g</b>",
+          "currency4": "MRP: 40/-",
+          "price4": "",
+          "period4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / Catron &nbsp;- 20 Nos</b></li><li class=\"list-group-item\"><b>Weight / Carton - 12 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": true,
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary"
+          },
+          "title1": "Puthuma Dishwash Bar 125 g",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "per month",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>32 GB</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "Puthuma Dishwash Bar 500 g",
+          "currency2": "$",
+          "price2": "0",
+          "period2": "per month",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>80 GB</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>20 GB</b> Bandwidth</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "Puthuma Phenyl 1 Ltr Strawberry&nbsp;",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "per month",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>100 GB</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>50 GB</b> Bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "Puthuma Phenyl 1 Ltr Chempa",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "per month",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>1TB GB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            "small": {
+              "color": "#150b0b",
+              "font-size": "18px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px",
+              "color": "#a9d7ff"
+            },
+            "small B": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title B": {
+              "color": "#062138"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#f5a20e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<b>Business Offer</b>",
+          "meta": "<b>Puthuma</b> &nbsp;invites C &amp; F &nbsp;and Distributors &nbsp;to expand this excellent business in Kerala.<br><br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become &nbsp;a C &amp; F&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become a Distributor</a> "
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#d5f4f0",
+              "text-align": "right",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "text-align": "right",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px",
+              "color": "#feeaba"
+            },
+            ".mbr-section-title P": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "form1-9",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/user/AppData/Local/Mobirise.com/Mobirise/projectData/photo-3_1.jpg",
+            "bgColor": "#600066",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "<p><b>Contact Us</b> &nbsp; &nbsp; &nbsp;<b><a href=\"Puthuma#contacts1-a\">Full Address</a></b><a href=\"Puthuma#contacts1-a\"> </a>&nbsp; &nbsp; &nbsp; <a href=\"Puthuma#pricing-table1-7\"><i><b>Back</b></i></a><a href=\"Puthuma#msg-box4-2\"><i><b></b></i></a><a href=\"Matrimonial#header1-0\" class=\"text-warning\"><i></i></a></p>",
+          "form": {
+            "action": "salesputhuma@gmail.com",
+            "alerts": {
+              "success": "Thanks for Responding Through Our Website. We will Touch with you later."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Full Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Active Email ID*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Active Mobile No."
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Describe Your Requirement in detail:"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "16px",
+              "color": "#230b0a",
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#290f0f"
+            }
+          },
+          "_anchor": "contacts1-a",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fffefc",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/puthuma-265x142-19.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>M/S: Puthumaa Enterprises<br>Peringode Post<br>Koottanad &nbsp;Via<br>PATTAMBI<br>Palakkad DT<br>Kerala - 679 535",
+          "text2": "<strong>Contacts</strong><br>\nEmail: salesputhuma@gmail.com<br>\nPhone: + 98461 04883<br><b>Customer Care</b><br>E Mail: careputhuma@gmail.com<br>Phone: + 98461 04883",
+          "text3": "<p><b>Link</b></p><p><i><a href=\"http://www.cmsstores.com/softwares/InventoryPlus/setup.exe\">Download</a></i></p><p><b>Other Business Offer</b></p><p><b style=\"line-height: 1.5;\"><a href=\"http://royalshaadi.in/franchisee.php\" target=\"_blank\">Click Here</a> &nbsp;For Start Our Free Matrimonial &nbsp;Franchisee.</b></p><p><font color=\"#f1c050\"><a href=\"Puthuma#msg-box4-2\" class=\"text-success\">Back</a></font></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Puthuma Enterprises.&nbsp;"
+        }
+      ]
+    }
+  }
+}
