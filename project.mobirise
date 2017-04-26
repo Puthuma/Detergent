@@ -12,10 +12,10 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.10",
-    "uniqCompNum": 23,
+    "uniqCompNum": 27,
     "versionPublish": "3.10",
     "publishType": "github",
-    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/puthuma%20Detergent",
+    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/Puthuma%20NEW",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -106,7 +106,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/puthuma-1400x753-27.png",
+              "src": "@PROJECT_PATH@/assets/images/img-2736-1400x1050-0.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -127,7 +127,7 @@
           "title": "<span style=\"line-height: 1.1;\"><b>Puthuma</b> </span><span style=\"line-height: 1.1;\">Washing Soap&nbsp;</span><br>",
           "meta": "Made From 100% Vegetarian &nbsp;Oils.<b>&nbsp;</b><b><br></b>",
           "text": "<h4>Safe &nbsp;On &nbsp;Cloth &nbsp;And &nbsp;Hands</h4>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">More</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">More....</a>"
         },
         {
           "alias": "purity/components",
@@ -149,7 +149,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "_anchor": "features1-3",
@@ -176,7 +176,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1474625121024-7595bfbc57ac-600x397-87.jpg",
+              "src": "@PROJECT_PATH@/assets/images/125-g-washing-soap-600x450-39.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -196,7 +196,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1468235786671-7d0c7b22c605-600x400-68.jpg",
+              "src": "@PROJECT_PATH@/assets/images/200-g-washing-soap-600x450-21.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -216,7 +216,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-5-unsplash-bonus-jpg-600x400-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/600-g-washing-soap-600x450-3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -232,11 +232,11 @@
             }
           },
           "title3": "Washing Soap 600 gram",
-          "caption3": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
+          "caption3": "Puthuma&nbsp;washing soaps are manufactured using 100% Vegetarian Oils only.",
           "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1433087870301-b85d84efc18a-600x400-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/150-g-dishwash-bar-600x450-6.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -251,8 +251,8 @@
               "size": 0
             }
           },
-          "title4": "Washing Soap &nbsp;900 gram",
-          "caption4": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
+          "title4": "Dishwash Bar 150 gram",
+          "caption4": "Puthuma Brand Dishwash Bar comes in Good quality with actractive packing..<br>",
           "button4": "<a data-app-btn=\"true\" href=\"Puthuma#features1-m\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Next &gt;&gt;&gt;</a>"
         },
         {
@@ -297,7 +297,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1465939614835-639f125bc3f5-600x400-5.jpg",
+              "src": "@PROJECT_PATH@/assets/images/phenyl-lemon-grass-600x450-49.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -312,12 +312,12 @@
               "size": 0
             }
           },
-          "title1": "Dishwash Bar 150 g",
-          "caption1": "Puthuma Brand Dishwash Bar comes in Good quality with actractive packing..",
+          "title1": "Phenyl 1 Ltr- Lemon Grass",
+          "caption1": "Puthuma Brand Phenyl comes in Premium quality with actractive packing. This Products Available in 5 type ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1484349296292-552da537bd3a-600x400-81.jpg",
+              "src": "@PROJECT_PATH@/assets/images/phenyl-lime-600x450-38.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -332,12 +332,12 @@
               "size": 0
             }
           },
-          "title2": "Dishwash Bar 500g",
-          "caption2": "Puthuma Brand Dishwash Bar comes in Good quality with actractive packing..",
+          "title2": "Phenyl 1 Ltr- Lime",
+          "caption2": "Puthuma Brand Phenyl comes in Premium quality with actractive packing. This Products Available in 5 type ",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1484563391303-27a646181a8b-600x397-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/phenyl-chempa-600x450-79.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -352,12 +352,12 @@
               "size": 0
             }
           },
-          "title3": "Phenyl 1 Ltr- Strawberry",
-          "caption3": "Puthuma Brand Phenyl comes in Premium quality with actractive packing.",
+          "title3": "Phenyl 1 Ltr- Chempa",
+          "caption3": "Puthuma Brand Phenyl comes in Premium quality with actractive packing. This Products Available in 5 type ",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482405994517-571b5fcdc998-600x398-50.jpg",
+              "src": "@PROJECT_PATH@/assets/images/packing-box-600x450-25.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -372,8 +372,8 @@
               "size": 0
             }
           },
-          "title4": "Phenyl 1 Ltr- Chempa",
-          "caption4": "Puthuma Brand Phenyl comes in Premium quality with actractive packing. This Products Available in 5 type&nbsp;",
+          "title4": "Puthuma - Packing BOX",
+          "caption4": "Puthuma Brand Products &nbsp;are comes in quality <br>Packing Box.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More..</a>"
         },
         {
@@ -387,7 +387,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "13px"
+              "font-size": "12px"
             },
             ".mbr-section-title": {
               "color": "#f1c050",
@@ -441,7 +441,7 @@
           "title": "Puthuma Washing Soap",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Puthuma washing Soap is available at economical prices, &nbsp;and comes in attractive packaging, Puthuama Washing Soap has a powerful dirt cutting action, and leaves clothes sparkling clean. &nbsp; &nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">We use a &nbsp;100 % &nbsp;Vegetarian oil in our washing soaps. The product is safe on clothes and friendly&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">to&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">the skin. It protects the clothes from colour fading and keeps your clothes new as ever. It is eco friendly and helps save water. Our products are regaining popularity in many markets in South India.</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">See Our Product Price</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Detergent#msg-box4-2\" data-toolbar=\"-mbrBtnMove\">Back</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">See Our Product Price</a>"
         },
         {
           "alias": "purity/components",
@@ -456,7 +456,7 @@
               "font-size": "16px"
             },
             ".btn": {
-              "font-size": "12px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -490,29 +490,29 @@
             "fourthType": "bg-primary"
           },
           "title1": "<b>Puthuma Washing Soap &nbsp;125g</b>",
-          "currency1": "MRP: &nbsp; 10/-",
+          "currency1": "MRP: &nbsp;(Kerala) &nbsp; 10/-<br>MRP ; (Outside Kerala) &nbsp;12/-<br>",
           "price1": "",
           "period1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - &nbsp;84 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - &nbsp;10.5 Kg</b></li><li class=\"list-group-item\"><b style=\"line-height: 1.5;\">Scheme &nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">Available</span><b style=\"font-size: 1rem; line-height: 1.5;\">- &nbsp;YES</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - &nbsp;96 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - &nbsp;12 Kg</b></li><li class=\"list-group-item\"><b style=\"line-height: 1.5;\">Scheme &nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">Available</span><b style=\"font-size: 1rem; line-height: 1.5;\">- &nbsp;YES</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
           "title2": "<b>Puthuma Washing Soap&nbsp;</b><b>200</b>&nbsp;<b>g</b>",
-          "currency2": "MRP: &nbsp;14/-",
+          "currency2": "MRP: &nbsp;(Kerala) &nbsp; 17/-<br>MRP: (Outside Kerala) &nbsp;19/-<br>",
           "price2": "",
           "period2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron -  60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 9 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a> ",
-          "title3": "<b>Puthuma &nbsp;Washing Soap &nbsp;600g</b>&nbsp;",
-          "currency3": "MRP: &nbsp;18/-",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - 72 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 15Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a> ",
+          "title3": "<b>PuthumaWashing Soap 600g</b>&nbsp;",
+          "currency3": "MRP: (Kerala) &nbsp; 40/-<br>MRP: (Outside Kerala) &nbsp;44/-<br>",
           "price3": "",
           "period3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron -  60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 12 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
-          "title4": "<b>Puthuma Washing Soap &nbsp;900g</b>",
-          "currency4": "MRP: 40/-",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - 20 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 12 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "title4": "<b>Puthuma Dishwash Bar 150g</b>",
+          "currency4": "MRP: &nbsp;(Kerala) &nbsp;10/-<br>MRP: (Outside Kerala) &nbsp;12/-<br>",
           "price4": "",
           "period4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / Catron &nbsp;- 20 Nos</b></li><li class=\"list-group-item\"><b>Weight / Carton - 12 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>"
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / Catron &nbsp;- 135 Nos</b></li><li class=\"list-group-item\"><b>Weight / Carton - 21 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"Detergent#pricing-table1-k\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Next Products</a>"
         },
         {
           "alias": "purity/components",
@@ -520,6 +520,24 @@
             "Theme"
           ],
           "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            },
+            "UL": {
+              "font-size": "14px"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "pricing-table1-k",
           "_params": {
             "paddingTop": 3,
@@ -542,30 +560,30 @@
             "thirdType": "bg-danger",
             "fourthType": "bg-primary"
           },
-          "title1": "Puthuma Dishwash Bar 125 g",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "per month",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>32 GB</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>15 GB</b> Bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "title2": "Puthuma Dishwash Bar 500 g",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "per month",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>80 GB</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>20 GB</b> Bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "title3": "Puthuma Phenyl 1 Ltr Strawberry&nbsp;",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "per month",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>100 GB</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>50 GB</b> Bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title1": "Puthuma Phenyl 1 Ltr - Lime",
+          "currency1": "",
+          "price1": "MRP: (Kerala) - 60/-<br>MRP: (Outside Kerala) - 75/-<br>",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Qty /  Catron - 15 Nos</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Weight / Catron -  15 Kg</b></li><li class=\"list-group-item\"><b>Scheme  Available- NO</b></li><li class=\"list-group-item\"><b>Quality - PREMIUM</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "title2": "Puthuma Phenyl 1Ltr Lemon Grass",
+          "currency2": "MRP: (Kerala) - 60/-<br>MRP: (Outside Kerala) - 75/-<br>",
+          "price2": "",
+          "period2": "",
+          "list2": "Quality - PREMIUM<br><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Qty / Catron - 15 Nos</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Weight / Catron - 15 Kg</b><br></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Scheme  Available- NO</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><br><br></a>",
+          "title3": "PuthumaPhenyl 1Ltr Strawberry&nbsp;",
+          "currency3": "MRP: (Kerala) - 60/-<br>MRP: (Outside Kerala) - 75/-<br>",
+          "price3": "",
+          "period3": "",
+          "list3": "Quality - PREMIUM<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Qty / Catron - 15 Nos</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Weight / Catron - 15 Kg</b><br></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Scheme  Available- NO</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><br><br></a>",
           "title4": "Puthuma Phenyl 1 Ltr Chempa",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "per month",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>1TB GB</b> Bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
+          "currency4": "MRP: (Kerala) - 60/-<br>MRP: (Outside Kerala) - 75/-<br>",
+          "price4": "",
+          "period4": "",
+          "list4": "Quality - PREMIUM<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Qty / Catron - 15 Nos</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Weight / Catron - 15 Kg</b><br></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Scheme  Available- NO</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"Detergent#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>"
         },
         {
           "_styles": {
@@ -626,9 +644,9 @@
             "showButton": true
           },
           "title": "<b>Business Offer</b>",
-          "meta": "<b>Puthuma</b> &nbsp;invites C &amp; F &nbsp;and Distributors &nbsp;to expand this excellent business in Kerala.<br><br>",
+          "meta": "<b>Puthuma</b> &nbsp;invites Distributors &nbsp;&amp; Sub- Distributors to expand this excellent business in Kerala.<br><br>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become &nbsp;a C &amp; F&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become a Distributor</a> "
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become &nbsp;a Distributors&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become a Sub - Distributors</a> "
         },
         {
           "alias": "purity/components",
@@ -646,7 +664,8 @@
             },
             ".btn": {
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "12px"
             },
             ".mbr-section-title B": {
               "text-align": "right",
@@ -750,8 +769,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>M/S: Puthumaa Enterprises<br>Peringode Post<br>Koottanad &nbsp;Via<br>PATTAMBI<br>Palakkad DT<br>Kerala - 679 535",
-          "text2": "<strong>Contacts</strong><br>\nEmail: salesputhuma@gmail.com<br>\nPhone: + 98461 04883<br><b>Customer Care</b><br>E Mail: careputhuma@gmail.com<br>Phone: + 98461 04883",
+          "text1": "<strong>Address</strong><br>M/S: Puthumaa Enterprises<br>Koottanad&nbsp;<br>PATTAMBI<br>Palakkad DT<br>Kerala - 679 535",
+          "text2": "<strong>Contacts</strong><br>\nEmail: salesputhuma@gmail.com<br>\nPhone: + 98461 04883<br><b>Customer Care</b><br>E Mail: careputhuma@gmail.com<br>Phone: + <b>98461 04883</b>",
           "text3": "<p><b>Link</b></p><p><i><a href=\"http://www.cmsstores.com/softwares/InventoryPlus/setup.exe\">Download</a></i></p><p><b>Other Business Offer</b></p><p><b style=\"line-height: 1.5;\"><a href=\"http://royalshaadi.in/franchisee.php\" target=\"_blank\">Click Here</a> &nbsp;For Start Our Free Matrimonial &nbsp;Franchisee.</b></p><p><font color=\"#f1c050\"><a href=\"Puthuma#msg-box4-2\" class=\"text-success\">Back</a></font></p>"
         },
         {

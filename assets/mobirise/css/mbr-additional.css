@@ -23,6 +23,8 @@
 
 
 
+
+
 #msg-box4-2 .lead P {
   font-size: 22px;
   color: #fbf2be;
@@ -70,7 +72,7 @@
 }
 #features1-3 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 13px;
+  font-size: 12px;
 }
 #features1-m H4 {
   font-size: 16px;
@@ -88,7 +90,7 @@
 }
 #msg-box3-5 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 13px;
+  font-size: 12px;
 }
 #msg-box3-5 .mbr-section-title {
   color: #f1c050;
@@ -115,7 +117,7 @@
   font-size: 16px;
 }
 #pricing-table1-7 .btn {
-  font-size: 12px;
+  font-size: 11px;
   font-family: 'Oswald', sans-serif;
 }
 #pricing-table1-7 DIV {
@@ -123,6 +125,20 @@
 }
 #pricing-table1-7 UL {
   font-size: 16px;
+}
+#pricing-table1-k SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+#pricing-table1-k DIV {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+#pricing-table1-k UL {
+  font-size: 14px;
+}
+#pricing-table1-k .btn {
+  font-size: 12px;
 }
 #msg-box3-8 .mbr-header .mbr-header__text {
   text-align: center;
@@ -158,6 +174,7 @@
 }
 #form1-9 .btn {
   font-family: 'Oswald', sans-serif;
+  font-size: 12px;
 }
 #form1-9 .mbr-section-title B {
   text-align: right;
